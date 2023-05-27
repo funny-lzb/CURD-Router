@@ -1,5 +1,5 @@
 import axios from 'axios'
 
 export const baseApi = axios.create({
-  baseURL: 'http://curd.leftover.cn',
+  baseURL: 'https://curd.leftover.cn',
 })
